@@ -1,6 +1,6 @@
-# Object Detection Using YOLO Pretrained Models
+# Object Detection Using YOLO & Retrain Models
 
-Ứng dụng phát hiện đối tượng sử dụng YOLOv8 pretrained models với Flask web interface. Hỗ trợ phát hiện đối tượng trên ảnh tĩnh, real-time qua webcam, và hybrid detection kết hợp COCO classes với custom model.
+Ứng dụng phát hiện đối tượng sử dụng YOLOv8 models với Flask web interface. Hỗ trợ phát hiện đối tượng trên ảnh tĩnh, real-time qua webcam, và hybrid detection kết hợp COCO classes với custom model.
 
 ## Tính năng
 
@@ -90,7 +90,7 @@ Object-Detection-Using-Yolo-Pretrained/
     └── di-bo-sang-duong.jpg
 ```
 
-## 👥 Tác giả
+## Tác giả
 
 Project được phát triển cho môn học Artificial Intelligence.
 
